@@ -1,0 +1,301 @@
+#
+# Wrap
+#
+# Materials for the file "1187.obj"
+#
+
+
+newmtl _image_1_8
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_8.png
+
+newmtl _image_1_9
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_9.png
+
+newmtl _image_1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1.png
+
+newmtl _image
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image.png
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+newmtl _image_1_20
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_20.png
+
+newmtl _image_1_21
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_21.png
+
+newmtl _image_1_22
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_22.png
+
+newmtl _image_1_23
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_23.png
+
+newmtl _image_1_10
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_10.png
+
+newmtl _image_1_24
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_24.png
+
+newmtl _image_1_11
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_11.png
+
+newmtl _image_1_12
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_12.png
+
+newmtl _image_1_1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_1.png
+
+newmtl _image_1_13
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_13.png
+
+newmtl _image_1_2
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_2.png
+
+newmtl _image_1_14
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_14.png
+
+newmtl _image_1_3
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_3.png
+
+newmtl _image_1_15
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_15.png
+
+newmtl _image_1_4
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_4.png
+
+newmtl _image_1_16
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_16.png
+
+newmtl _image_1_5
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_5.png
+
+newmtl _image_1_17
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_17.png
+
+newmtl _image_1_6
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_6.png
+
+newmtl _image_1_18
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_18.png
+
+newmtl _image_1_7
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_7.png
+
+newmtl _image_1_19
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd_wrapU Clamp
+   map_Kd_wrapV Clamp
+   map_Kd_magFilter Linear
+   map_Kd 1187_image_1_19.png
+
+# end of file
